@@ -162,4 +162,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
+- [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser SVG ruler in actual size (cm + inches), calibrate with credit card or monitor DPI.
